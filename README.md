@@ -39,4 +39,37 @@ get_next_line: Facilitates reading lines from a file descriptor, useful for file
 
 lst: Implements linked list functionalities, allowing for dynamic data structures.
 
-srcs: Houses the source code for various utility functions included in the library.
+srcs:
+  ft_atoi: Converts a string to an integer.
+  ft_bzero: Sets a block of memory to zero.
+  ft_calloc: Allocates memory for an array and initializes it to zero.
+  ft_isalnum: Checks if a character is alphanumeric.
+  ft_isalpha: Checks if a character is alphabetic.
+  ft_isascii: Checks if a character is an ASCII character.
+  ft_isdigit: Checks if a character is a digit.
+  ft_isprint: Checks if a character is printable.
+  ft_itoa: Converts an integer to a string.
+  ft_memchr: Locates a byte in a block of memory.
+  ft_memcmp: Compares two blocks of memory.
+  ft_memcpy: Copies memory from one area to another.
+  ft_memmove: Moves memory from one area to another, handling overlap.
+  ft_memset: Fills a block of memory with a specific value.
+  ft_putchar_fd: Outputs a character to a file descriptor.
+  ft_putendl_fd: Outputs a string to a file descriptor, followed by a newline.
+  ft_putnbr_fd: Outputs an integer to a file descriptor.
+  ft_putstr_fd: Outputs a string to a file descriptor.
+  ft_split: Splits a string into an array of substrings based on a delimiter.
+  ft_strchr: Locates the first occurrence of a character in a string.
+  ft_strdup: Duplicates a string by allocating new memory.
+  ft_strjoin: Concatenates two strings into a new string.
+  ft_strlcat: Concatenates strings with size limitation.
+  ft_strlcpy: Copies strings with size limitation.
+  ft_strlen: Calculates the length of a string.
+  ft_strmapi: Applies a function to each character of a string, creating a new string.
+  ft_strncmp: Compares a specified number of characters between two strings.
+  ft_strnstr: Locates a substring within a string, with a length limit.
+  ft_strrchr: Locates the last occurrence of a character in a string.
+  ft_strtrim: Trims leading and trailing characters from a string.
+  ft_substr: Extracts a substring from a string.
+  ft_tolower: Converts an uppercase character to lowercase.
+  ft_toupper: Converts a lowercase character to uppercase.
