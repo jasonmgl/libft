@@ -23,9 +23,9 @@ Link the compiled libft.a with your project files during compilation.
 Include the necessary headers from the include directory in your source files.
 
 ## DEPENDENCIES
-Compiler: Requires a C compiler like gcc.
-Make: Utilizes make for building the library.
-Standard Libraries: Relies on standard C libraries for certain functionalities.
+- Compiler: Requires a C compiler like gcc.
+- Make: Utilizes make for building the library.
+- Standard Libraries: Relies on standard C libraries for certain functionalities.
 
 ## DESCRIPTIONS
 The libft library encompasses several components:
