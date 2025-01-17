@@ -1,7 +1,4 @@
-# libft
-A library coded in C.
-
-## PRESENTATION
+# PRESENTATION
 The libft project is a foundational library developed in C, designed to replicate and extend standard C library functions. It serves as a base for various applications, providing essential utilities for string manipulation, memory management, and linked list operations.
 
 ## USAGE
